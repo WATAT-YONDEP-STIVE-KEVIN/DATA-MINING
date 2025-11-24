@@ -23,4 +23,4 @@ Itemsets
 Pour cloner ce dépôt et installer les dépendances, exécutez les commandes suivantes :  
 
 ```bash  
-git clone https://github.com/WATAT-YONDEP-STIVE-KEVIN/VisionParOrdinateur.git 
+git clone https://github.com/WATAT-YONDEP-STIVE-KEVIN/DATA-MINING
